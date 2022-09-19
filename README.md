@@ -18,6 +18,18 @@ g++ main.cpp -o fizz_buzz
 
 ## Bonus.
 
-Write a simple implementation of asycnhronous call to fizz_buzz().
+* Write a simple implementation of asycnhronous call to fizz_buzz().
+* What if the logic changes to 
+```
+static int fiz_buzz(int value)
+{
+    if (value == 7)
+        return 5;
+    if (value == 5)
+        return 7;
+    return 0;
+}
+```
+What implementations could be salvaged and how?
 
 
