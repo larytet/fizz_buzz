@@ -6,6 +6,8 @@ This should work in a Linux environment
 g++ main.cpp -o fizz_buzz
 # Should print 7
 ./fizz_buzz 5 || echo $?
+# Should print 5
+./fizz_buzz 7 || echo $?
 ```
 
 # Questions.
