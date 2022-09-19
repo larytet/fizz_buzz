@@ -10,7 +10,7 @@ g++ main.cpp -o fizz_buzz
 
 # Questions.
 
-* Write a few different implementations of the function fizz_buzz().
+* Write a few different implementations of the function fizz_buzz() in the main.cpp.
 * Can you avoid using if..else in the code?
 * Could you write 5 different implementations? May be 7 implementations?
 * What is the performnace of the best implementation?
