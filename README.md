@@ -16,6 +16,6 @@ g++ main.cpp -o fuz-buzz
 
 ## Bonus.
 
-write a simplest implementation of asycnhronous call to fizz_buzz()
+Write a simple implementation of asycnhronous call to fizz_buzz().
 
 
