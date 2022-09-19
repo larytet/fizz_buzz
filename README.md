@@ -21,7 +21,7 @@ g++ main.cpp -o fizz_buzz
 * Write a simple implementation of an asycnhronous call to fizz_buzz(). Use of STL is Ok.
 * What if the logic changes to 
 ```
-static int fiz_buzz(int value)
+static int fizz_buzz(int value)
 {
     if (value == 7)
         return 5;
