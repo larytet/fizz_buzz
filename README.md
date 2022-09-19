@@ -18,7 +18,7 @@ g++ main.cpp -o fizz_buzz
 
 ## Bonus.
 
-* Write a simple implementation of asycnhronous call to fizz_buzz().
+* Write a simple implementation of an asycnhronous call to fizz_buzz().
 * What if the logic changes to 
 ```
 static int fiz_buzz(int value)
