@@ -3,9 +3,9 @@
 This should work in a Linux environment
 
 ```
-g++ main.cpp -o fuz-buzz
+g++ main.cpp -o fizz_buzz
 # Should print 7
-./fuz-buzz 5 || echo $?
+./fizz_buzz 5 || echo $?
 ```
 
 # Questions
