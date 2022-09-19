@@ -19,7 +19,7 @@ g++ main.cpp -o fizz_buzz
 ## Bonus questions.
 
 * Write a simple implementation of an asycnhronous call to fizz_buzz(). Use of STL is Ok.
-* What if the logic changes to 
+* What implementations could be salvaged and how if the logic changes to 
 ```
 static int fizz_buzz(int value)
 {
@@ -30,6 +30,6 @@ static int fizz_buzz(int value)
     return 0;
 }
 ```
-What implementations could be salvaged and how?
+
 
 
