@@ -33,7 +33,7 @@ static int fizz_buzz(int value)
 }
 ```
 
-## Java quesitons
+## Java
 
 What does this call do 
 ```
