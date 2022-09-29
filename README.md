@@ -17,6 +17,7 @@ g++ main.cpp -o fizz_buzz
 * Could you write 5 different implementations of the code? May be 7 implementations?
 * What is the performnace of the best implementation?
 * What is the performnace of the worst implementation?
+* https://godbolt.org/ ?
 
 ## Bonus questions.
 
