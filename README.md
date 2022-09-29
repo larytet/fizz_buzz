@@ -33,5 +33,22 @@ static int fizz_buzz(int value)
 }
 ```
 
+## Java quesitons
+
+What does this call do 
+```
+FileMapping = CreateFileMapping(File, NULL, PAGE_READWRITE, 0, 0, NULL);
+```
+
+## Windows
+What is `IMAGE_FILE_HEADER` ?
+
+
+## CSharp
+
+What this code does 
+```
+CollectionsMarshall.AsSpan() ?
+```
 
 
