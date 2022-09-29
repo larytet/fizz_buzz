@@ -34,6 +34,22 @@ static int fizz_buzz(int value)
 }
 ```
 
+* Explain this 
+```
+fizz_buzz:
+        push    rbp
+        mov     rbp, rsp
+        mov     DWORD PTR [rbp-4], edi
+        cmp     DWORD PTR [rbp-4], 7
+        jne     .L2
+        mov     eax, 5
+        jmp     .L3
+.L2:
+        mov     eax, 7
+.L3:
+        pop     rbp
+        ret
+```        
 ## Java
 
 What does this call do 
