@@ -21,7 +21,6 @@ g++ main.cpp -o fizz_buzz
 
 ## Bonus questions.
 
-* Write a simple implementation of an asycnhronous call to fizz_buzz(). Use of STL is Ok.
 * What implementations could be salvaged and how if the logic changes to 
 ```
 static int fizz_buzz(int value)
@@ -50,6 +49,9 @@ fizz_buzz:
         pop     rbp
         ret
 ```        
+* Write a simple implementation of an asycnhronous call to fizz_buzz(). Use of STL is Ok.
+
+
 ## Java
 
 What does this call do 
