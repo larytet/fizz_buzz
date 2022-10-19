@@ -65,7 +65,7 @@ What is `IMAGE_FILE_HEADER` ?
 
 ## CSharp
 
-What this code does 
+What does this code do
 ```
 CollectionsMarshall.AsSpan() ?
 ```
